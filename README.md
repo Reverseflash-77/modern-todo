@@ -46,10 +46,6 @@ cd modern-todo
 
 Or, if you're using VS Code, run it with **Live Server** for the best development experience.
 
-## 📸 Preview
-
-> Add a screenshot or GIF of the application here.
-
 Example:
 
 ```
